@@ -1,0 +1,7 @@
+{
+  "_id": "prod001",
+  "nome": "Peça de motor 3D - Suporte X",
+  "descricao": "Suporte de motor impresso em 3D",
+  "preco_venda": 25.00,
+  "insumo_id": "insumo001"
+}

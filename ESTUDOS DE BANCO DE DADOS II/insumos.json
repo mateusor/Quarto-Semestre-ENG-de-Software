@@ -1,0 +1,29 @@
+
+[
+    {   
+        "categoria":"FILAMENTO",
+        "especificações":{
+            "tipo": "PLA",
+            "marca": "Bambu Lab",
+            "modelo": "PLA Basic",
+            "corCatalogoFabricante": "Indigo Purple",
+            "cor": "ROXO ESCURO"            
+
+        },
+
+        "medidas":{
+            "diametro":{
+                "unidade":"mm",
+                "valor": 1.75
+
+            },
+            "pesagem": {
+                "unidade": "g",
+                "bobinaVazia": 246,
+                "bobinaNovaBruta": 1246,
+                "liquidoFilamento": 1000,
+                "liquidoFilamentoRestante": 50
+            }
+        }
+    }
+]
