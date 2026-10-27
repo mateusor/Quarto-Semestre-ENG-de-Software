@@ -1,0 +1,20 @@
+#menu{
+
+    list-style:none;
+}
+
+#menu li{
+
+    display:inline;
+}
+
+#menu a{
+
+    color:black;
+    text-decoration: nome;
+}
+
+#menu a houver{
+    
+    text-decoration: underline;
+}

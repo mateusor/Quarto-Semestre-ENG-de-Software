@@ -1,0 +1,16 @@
+.cursos{
+
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.curso{
+
+    width: 200px;
+    padding: 15px;
+    border: 1px solid #cccccc;
+    border-radius: 8px;
+}
+
