@@ -1,0 +1,9 @@
+# Java
+*.class
+
+# Bibliotecas baixadas (as páginas usam CDN)
+bootstrap-*-dist/
+
+# Sistema
+.DS_Store
+Thumbs.db
