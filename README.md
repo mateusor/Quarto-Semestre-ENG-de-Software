@@ -26,6 +26,7 @@ Exercícios práticos de POO em **Java**, incluindo implementação de classes, 
 📁 [`PARADIGMA E PROGRAMAÇÃO ORIENTADA À OBJETOS`](./PARADIGMA%20E%20PROGRAMAÇÃO%20ORIENTADA%20À%20OBJETOS)
 - `Prática/Aula1` a `Aula3`: classes Data, Horario e o jogo da Forca
 - `Prática/Prova1`: exercícios da Prova 1
+- [`Prática/JogoDaVelha`](./PARADIGMA%20E%20PROGRAMAÇÃO%20ORIENTADA%20À%20OBJETOS/Prática/JogoDaVelha): Jogo da Velha contra o computador, feito em dupla com [Gabriel Coutinho](https://github.com/gcoutiinho)
 - `Estudos`: versões revisadas das classes (Data com `Comparable` e `Cloneable`, Horario, Aluno, Forca) e exercícios dos simulados
 
 ## 🛠️ Tecnologias
