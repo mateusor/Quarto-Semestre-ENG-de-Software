@@ -1,0 +1,32 @@
+head{
+
+    font-family: Georgia, Times, serif;
+}
+
+body{
+
+    font-family: Georgia, Times, serif;
+}
+
+#menu-topo{
+
+    list-style:none;
+}
+
+
+#menu-topo li{
+
+    display: inline;
+}
+
+#menu-topo a{
+
+    color: #222222;
+    text-decoration: none;
+}
+
+#menu-topo a houver{
+
+    color: #d9480f;
+    text-decoration: underline;
+}
